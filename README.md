@@ -20,7 +20,10 @@ No quedan dudas del poder que tiene JavaScript sobre nuestro front-end.
 ## Instalación 🔧
 ---
 
--Instalar dependencias ```npm run test```
+
+-Instalar dependencias ```npm install```
+
+-Correr el ambiente local  ```npm run test```
 
 
 Ejecuta la aplicación en modo de desarrollo.
